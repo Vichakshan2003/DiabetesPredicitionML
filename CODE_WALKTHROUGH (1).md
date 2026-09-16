@@ -1,8 +1,5 @@
-# Diabetes Prediction — Full Code Walkthrough (Beginner-Friendly)
+# Diabetes Prediction — Full Code Walkthrough
 
-This document explains **every line of code** in the project, written for someone who is new to machine learning. Each section covers what the code does, why it's needed, and the ML concept behind it.
-
----
 
 ## Step 1: Importing Libraries
 
